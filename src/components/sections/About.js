@@ -11,7 +11,7 @@ const propTypes = {
 const defaultProps = {
   ...SectionTilesProps.defaults,
 };
-const FeaturesTiles = ({
+const About = ({
   className,
   topOuterDivider,
   bottomOuterDivider,
@@ -179,7 +179,7 @@ const FeaturesTiles = ({
   );
 };
 
-FeaturesTiles.propTypes = propTypes;
-FeaturesTiles.defaultProps = defaultProps;
+About.propTypes = propTypes;
+About.defaultProps = defaultProps;
 
-export default FeaturesTiles;
+export default About;
