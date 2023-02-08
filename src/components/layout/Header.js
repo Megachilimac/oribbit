@@ -112,15 +112,23 @@ const Header = ({
                       <HashLink to="/#home" onClick={closeMenu}>
                         Home
                       </HashLink>
+                    </li>
+                    <li>
                       <HashLink to="/#about" onClick={closeMenu}>
                         About
                       </HashLink>
+                    </li>
+                    <li>
                       <HashLink to="/#learn" onClick={closeMenu}>
                         Learn
                       </HashLink>
+                    </li>
+                    <li>
                       <HashLink to="#involved" onClick={closeMenu}>
                         Get Involved
                       </HashLink>
+                    </li>
+                    <li>
                       <HashLink to="#support" onClick={closeMenu}>
                         Support
                       </HashLink>
