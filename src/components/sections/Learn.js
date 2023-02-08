@@ -53,7 +53,7 @@ const Learn = ({
   };
 
   return (
-    <section {...props} className={outerClasses}>
+    <section id="learn" {...props} className={outerClasses}>
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />

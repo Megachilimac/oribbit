@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import PropTypes from "prop-types";
 import classNames from "classnames";
-import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -109,18 +109,21 @@ const Header = ({
                     )}
                   >
                     <li>
-                      <Link to="#0" onClick={closeMenu}>
+                      <HashLink to="/#home" onClick={closeMenu}>
+                        Home
+                      </HashLink>
+                      <HashLink to="/#about" onClick={closeMenu}>
                         About
-                      </Link>
-                      <Link to="#1" onClick={closeMenu}>
+                      </HashLink>
+                      <HashLink to="/#learn" onClick={closeMenu}>
                         Learn
-                      </Link>
-                      <Link to="#2" onClick={closeMenu}>
+                      </HashLink>
+                      <HashLink to="#involved" onClick={closeMenu}>
                         Get Involved
-                      </Link>
-                      <Link to="#3" onClick={closeMenu}>
+                      </HashLink>
+                      <HashLink to="#support" onClick={closeMenu}>
                         Support
-                      </Link>
+                      </HashLink>
                     </li>
                   </ul>
                 </div>

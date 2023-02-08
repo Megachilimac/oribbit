@@ -37,7 +37,7 @@ const Hero = ({
   );
 
   return (
-    <section {...props} className={outerClasses}>
+    <section id="home" {...props} className={outerClasses}>
       <div className="container-sm">
         <div className={innerClasses}>
           <div

@@ -48,7 +48,7 @@ const About = ({
   };
 
   return (
-    <section {...props} className={outerClasses}>
+    <section id="about" {...props} className={outerClasses}>
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
