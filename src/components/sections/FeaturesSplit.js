@@ -63,11 +63,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  DEFCON August 2022
-                </div>
-                <h3 className="mt-0 mb-12">View the poster</h3>
-                <p className="m-0">Link to DEFCON pdf</p>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">DEFCON August 2022</h3>
+                <p className="m-0">View the poster</p>
               </div>
             </div>
 
@@ -76,10 +74,8 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  QSOToday September 2022
-                </div>
-                <h3 className="mt-0 mb-12">View the presentation on YouTube</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">QSOToday September 2022</h3>
                 <p className="m-0">
                   View the QSOToday Sept 2022 presentation on{" "}
                   <a href="https://youtu.be/_jN4IVccIEw">YouTube</a>
@@ -92,10 +88,8 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  RATPAC November 2022
-                </div>
-                <h3 className="mt-0 mb-12">View the presentation on YouTube</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">RATPAC November 2022</h3>
                 <p className="m-0">
                   View the RATPAC Nov 2022 presentation on{" "}
                   <a href="https://youtu.be/TGzgIjEt9wA">YouTube</a>
@@ -108,10 +102,8 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  How It Works
-                </div>
-                <h3 className="mt-0 mb-12">View the presentation on YouTube</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">How It Works (with HB9BLA)</h3>
                 <p className="m-0">
                   Understand how it works with HB9BLA presentation on{" "}
                   <a href="https://youtu.be/ubPP48ojJ3E">YouTube</a>
@@ -123,10 +115,8 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Rattlegram Demo
-                </div>
-                <h3 className="mt-0 mb-12">View the presentation on YouTube</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Rattlegram Demo</h3>
                 <p className="m-0">
                   Rattlegram demo and tutorial by Ahmet on{" "}
                   <a href="https://youtu.be/0jtzA3alpuw">YouTube</a>
