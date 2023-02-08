@@ -65,7 +65,12 @@ const Learn = ({
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">DEFCON August 2022</h3>
-                <p className="m-0">View the poster</p>
+                <p className="m-0">
+                  <a href="RibbitPoster-July2022.pdf" download>
+                    Download
+                  </a>{" "}
+                  the pdf poster.
+                </p>
               </div>
             </div>
 
