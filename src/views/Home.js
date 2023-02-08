@@ -3,9 +3,9 @@ import React from "react";
 import Hero from "../components/sections/Hero";
 import About from "../components/sections/About";
 import Learn from "../components/sections/Learn";
-import Testimonial from "../components/sections/Testimonial";
 import Cta from "../components/sections/Cta";
 import GetInvolved from "../components/sections/GetInvolved";
+import Support from "../components/sections/Support";
 
 const Home = () => {
   return (
@@ -19,7 +19,7 @@ const Home = () => {
         className="illustration-section-02"
       />
       <GetInvolved topDivider />
-      <Testimonial topDivider />
+      <Support topDivider />
       <Cta split />
     </>
   );
