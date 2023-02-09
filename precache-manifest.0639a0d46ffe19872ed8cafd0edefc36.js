@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52a4ee269ab06f6376bdfacb45e8c280",
+    "revision": "d1b383577f583fa3711c029d87637590",
     "url": "/oribbit/index.html"
   },
   {
-    "revision": "f10a50baa075d4d77230",
+    "revision": "b2e37d0bd27798fcccf4",
     "url": "/oribbit/static/css/main.26c6f20f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oribbit/static/js/2.ee3b7f4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f10a50baa075d4d77230",
-    "url": "/oribbit/static/js/main.24feac2c.chunk.js"
+    "revision": "b2e37d0bd27798fcccf4",
+    "url": "/oribbit/static/js/main.17fbc574.chunk.js"
   },
   {
     "revision": "1f064bead720ba4f74b5",
