@@ -2,7 +2,6 @@ import React from "react";
 import classNames from "classnames";
 import { SectionTilesProps } from "../../utils/SectionProps";
 import SectionHeader from "./partials/SectionHeader";
-import Image from "../elements/Image";
 import { BiMessageAltDetail } from "react-icons/bi";
 import { BsPhoneVibrate } from "react-icons/bs";
 import { FaConnectdevelop, FaUsers } from "react-icons/fa";

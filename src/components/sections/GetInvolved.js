@@ -110,10 +110,10 @@ const GetInvolved = ({
                     on YouTube.
                   </div>
                   <div>
-                    Subscribe to the
+                    Subscribe to the{" "}
                     <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Users-openresearch.institute">
                       Ribbit-Users
-                    </a>
+                    </a>{" "}
                     discussion mailing list where users can discuss the use of
                     the app, report success and help each other.
                   </div>
