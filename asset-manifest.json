@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oribbit/static/css/main.26c6f20f.chunk.css",
+    "main.js": "/oribbit/static/js/main.546e8654.chunk.js",
+    "main.js.map": "/oribbit/static/js/main.546e8654.chunk.js.map",
+    "runtime-main.js": "/oribbit/static/js/runtime-main.8b6185a5.js",
+    "runtime-main.js.map": "/oribbit/static/js/runtime-main.8b6185a5.js.map",
+    "static/js/2.6d84adbd.chunk.js": "/oribbit/static/js/2.6d84adbd.chunk.js",
+    "static/js/2.6d84adbd.chunk.js.map": "/oribbit/static/js/2.6d84adbd.chunk.js.map",
+    "index.html": "/oribbit/index.html",
+    "precache-manifest.a96a7f374027a1aa91eb4ee4205e437b.js": "/oribbit/precache-manifest.a96a7f374027a1aa91eb4ee4205e437b.js",
+    "service-worker.js": "/oribbit/service-worker.js",
+    "static/css/main.26c6f20f.chunk.css.map": "/oribbit/static/css/main.26c6f20f.chunk.css.map",
+    "static/js/2.6d84adbd.chunk.js.LICENSE.txt": "/oribbit/static/js/2.6d84adbd.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/oribbit/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/ribbit-logo.png": "/oribbit/static/media/ribbit-logo.d42a005c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b6185a5.js",
+    "static/js/2.6d84adbd.chunk.js",
+    "static/css/main.26c6f20f.chunk.css",
+    "static/js/main.546e8654.chunk.js"
+  ]
+}
