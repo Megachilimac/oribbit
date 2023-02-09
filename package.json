@@ -1,6 +1,7 @@
 {
-  "name": "open-react-template",
+  "name": "oribbit",
   "version": "0.1.0",
+  "homepage": "https://Megachilimac.github.io/oribbit",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
@@ -16,9 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "https://github.com/Megachilimac/oribbit"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
