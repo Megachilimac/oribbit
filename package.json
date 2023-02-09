@@ -1,7 +1,7 @@
 {
   "name": "oribbit",
   "version": "0.1.0",
-  "homepage": "https://Megachilimac.github.io/oribbit",
+  "homepage": "http://Megachilimac.github.io/oribbit",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
