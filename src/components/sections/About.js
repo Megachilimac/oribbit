@@ -46,7 +46,7 @@ const About = ({
 
   const sectionHeader = {
     title: "About",
-    paragraph: "",
+    paragraph: "  ",
   };
 
   return (
