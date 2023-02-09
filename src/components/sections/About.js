@@ -3,7 +3,10 @@ import classNames from "classnames";
 import { SectionTilesProps } from "../../utils/SectionProps";
 import SectionHeader from "./partials/SectionHeader";
 import Image from "../elements/Image";
-
+import { BiMessageAltDetail } from "react-icons/bi";
+import { BsPhoneVibrate } from "react-icons/bs";
+import { FaConnectdevelop, FaUsers } from "react-icons/fa";
+import { GoBeaker } from "react-icons/go";
 const propTypes = {
   ...SectionTilesProps.types,
 };
@@ -59,13 +62,14 @@ const About = ({
             >
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-02.svg")}
-                      alt="Features tile icon 02"
-                      width={64}
-                      height={64}
-                    />
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      fontSize: "50px",
+                    }}
+                  >
+                    <BiMessageAltDetail />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -86,13 +90,14 @@ const About = ({
             >
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-03.svg")}
-                      alt="Features tile icon 03"
-                      width={64}
-                      height={64}
-                    />
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      fontSize: "50px",
+                    }}
+                  >
+                    <BsPhoneVibrate />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -109,13 +114,14 @@ const About = ({
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-04.svg")}
-                      alt="Features tile icon 04"
-                      width={64}
-                      height={64}
-                    />
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      fontSize: "50px",
+                    }}
+                  >
+                    <FaConnectdevelop />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -134,13 +140,14 @@ const About = ({
             >
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-05.svg")}
-                      alt="Features tile icon 05"
-                      width={64}
-                      height={64}
-                    />
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      fontSize: "50px",
+                    }}
+                  >
+                    <GoBeaker />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -155,13 +162,14 @@ const About = ({
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-01.svg")}
-                      alt="Features tile icon 01"
-                      width={64}
-                      height={64}
-                    />
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      fontSize: "50px",
+                    }}
+                  >
+                    <FaUsers />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
