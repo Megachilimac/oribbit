@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/oribbit/static/css/main.26c6f20f.chunk.css",
-    "main.js": "/oribbit/static/js/main.a7db0882.chunk.js",
-    "main.js.map": "/oribbit/static/js/main.a7db0882.chunk.js.map",
+    "main.js": "/oribbit/static/js/main.24feac2c.chunk.js",
+    "main.js.map": "/oribbit/static/js/main.24feac2c.chunk.js.map",
     "runtime-main.js": "/oribbit/static/js/runtime-main.8b6185a5.js",
     "runtime-main.js.map": "/oribbit/static/js/runtime-main.8b6185a5.js.map",
-    "static/js/2.6d84adbd.chunk.js": "/oribbit/static/js/2.6d84adbd.chunk.js",
-    "static/js/2.6d84adbd.chunk.js.map": "/oribbit/static/js/2.6d84adbd.chunk.js.map",
+    "static/js/2.ee3b7f4b.chunk.js": "/oribbit/static/js/2.ee3b7f4b.chunk.js",
+    "static/js/2.ee3b7f4b.chunk.js.map": "/oribbit/static/js/2.ee3b7f4b.chunk.js.map",
     "index.html": "/oribbit/index.html",
-    "precache-manifest.5806adba7712ac46518f5c28ab95678c.js": "/oribbit/precache-manifest.5806adba7712ac46518f5c28ab95678c.js",
+    "precache-manifest.f3ac4958d97c93db682769eb05de3b81.js": "/oribbit/precache-manifest.f3ac4958d97c93db682769eb05de3b81.js",
     "service-worker.js": "/oribbit/service-worker.js",
     "static/css/main.26c6f20f.chunk.css.map": "/oribbit/static/css/main.26c6f20f.chunk.css.map",
-    "static/js/2.6d84adbd.chunk.js.LICENSE.txt": "/oribbit/static/js/2.6d84adbd.chunk.js.LICENSE.txt",
+    "static/js/2.ee3b7f4b.chunk.js.LICENSE.txt": "/oribbit/static/js/2.ee3b7f4b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/oribbit/static/media/illustration-section-02.63d0555d.svg",
     "static/media/ribbit-logo.png": "/oribbit/static/media/ribbit-logo.d42a005c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b6185a5.js",
-    "static/js/2.6d84adbd.chunk.js",
+    "static/js/2.ee3b7f4b.chunk.js",
     "static/css/main.26c6f20f.chunk.css",
-    "static/js/main.a7db0882.chunk.js"
+    "static/js/main.24feac2c.chunk.js"
   ]
 }
